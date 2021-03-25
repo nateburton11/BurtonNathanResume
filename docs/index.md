@@ -2,7 +2,7 @@
 layout: cv
 title: Nathan Burton
 ---
-# Nathan Burton
+# Nathan Burton IS THE MAN
 The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 <div id="webaddress">
