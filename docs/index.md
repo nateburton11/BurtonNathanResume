@@ -3,11 +3,8 @@ layout: cv
 title: Nathan Burton
 ---
 
-
-=======
 # Nathan Burton
 
->>>>>>> 648f5a0d26fe094f99553801f376109d7d27dd7c
 
 <div id="webaddress">
 <a href="bur17025@byui.edu">bur17025@byui.edu</a>
