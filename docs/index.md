@@ -64,9 +64,9 @@ __Church of Jesus Christ of Latter-Day Saints__, Full-Time Volunteer
 - Strengthened skills in leadership, presentation, communication, service
 
 
-## Skills
+## Skills and Cerfifications
 
-- Advanced Excel
+- MySQL
 - R Studio
 - Advanced Analytical skills and understanding
 - Google Ads Certification
