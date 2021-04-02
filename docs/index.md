@@ -21,11 +21,9 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 _Bachelors in Business Analytics, Minor in Finance_
 
-- Excel
-- SQL 
-- Tableau
-- Power BI
-- Basic Python
+- Advance knowledge in Excel, including Vlookup and Pivot tables
+- Capable in SQL, R, and proficient in Python
+- Data visualization skills in Tableau and Power BI
 
 
 ## Related Experience
@@ -47,6 +45,7 @@ __Mountain America Credit Union__, Account Resolution Specialist
 - Resolve incoming phone calls from members and internal customers by answering questions and 
 resolving issues to ensure quality service
 - Cater to timely service to needs of members to enhance financial relationships with credit union
+- 100% call performance and audits
 
 `September 2020 - December 2020`
 __BYU-Idaho: FIN 301__ Dapper Donuts Forecast Model
@@ -61,10 +60,8 @@ unnecessary costs and relocating expenses
 `July 2015 - August 2017`
 __Church of Jesus Christ of Latter-Day Saints__, Full-Time Volunteer
 
-- Analyzed team statistics to determine weekly training meeting topics and training methods and assisted 
-in achieving group improvement goals
-- Conducted, planned, and instructed at meetings for groups of 8 or 10 volunteers on ethics, 
-communication, and coaching skills
+- 2 year religious volunteer service
+- Strengthened skills in leadership, presentation, communication, service
 
 
 ## Skills
