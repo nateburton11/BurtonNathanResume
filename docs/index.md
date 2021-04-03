@@ -65,7 +65,7 @@ __Church of Jesus Christ of Latter-Day Saints__, Full-Time Volunteer
 - Strengthened skills in leadership, presentation, communication, service
 
 
-## Skills and Cerfifications
+## Skills and Certifications
 
 - MySQL
 - R Studio
