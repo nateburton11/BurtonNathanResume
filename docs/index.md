@@ -21,7 +21,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 _Bachelors in Business Analytics, Minor in Finance_
 
-- Advance knowledge in Excel, including Vlookup and Pivot tables
+- Advanced knowledge in Excel, including Vlookup and Pivot tables
 - Capable in SQL, R, and proficient in Python
 - Data visualization skills in Tableau and Power BI
 
@@ -35,6 +35,7 @@ __Mountain America Credit Union__ Business Analyst Intern
 
 - Boosted efficiency of service request process by building estimation models and analyzed department 
 statistics and forecasted future needs
+- Analyzed data and created dashboard to reflect KPI's and create a base for employee review scores and incentives
 - Utilized and developed additional skills in internal analysis programs, as well as Excel and Power BI
 
 ### Service and Work History
