@@ -19,9 +19,9 @@ title: Nathan Burton
 `2017-2021`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-_Bachelors in Business Analytics, Minor in Finance_
+_Bachelor's in Business Analytics, Minor in Finance_
 
-- Advanced knowledge in Excel, including Vlookup and Pivot tables
+- Advanced knowledge in Excel, including VLOOKUP and Pivot tables
 - Capable in SQL, R, and proficient in Python
 - Data visualization skills in Tableau and Power BI
 
@@ -61,7 +61,7 @@ unnecessary costs and relocating expenses
 `July 2015 - August 2017`
 __Church of Jesus Christ of Latter-Day Saints__, Full-Time Volunteer
 
-- 2 year religious volunteer service
+- 2-year religious volunteer service
 - Strengthened skills in leadership, presentation, communication, service
 
 
